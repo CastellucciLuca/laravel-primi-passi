@@ -13,7 +13,7 @@
             <ul>
                 <li>
                     <a href="/home/">Home</a>
-                    <a href="/about-us/">About Us</a>
+                    <a href="/work-with-us/">About Us</a>
                     <a href="/contacts/">Contacts</a>
                 </li>
             </ul>
