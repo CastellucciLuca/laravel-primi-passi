@@ -12,6 +12,7 @@
         <nav>
             <ul>
                 <li>
+                    <a href="/">Home</a>
                     <a href="/work-with-us">Work with us</a>
                     <a href="/contacts">Contacts</a>
                 </li>
